@@ -7,7 +7,7 @@
 body {
   width: 100%;
   height: 100vh;
-  background-image: url("./abg.jpg");
+  background-image: url(./abg.jpg);
   background-size: cover;
   background-position: top;
   padding: 5px;
